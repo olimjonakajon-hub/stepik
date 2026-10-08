@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\stepik\stepik\bin\Debug\net10.0\stepik.exe
+C:\Users\HP\Desktop\stepik\stepik\bin\Debug\net10.0\stepik.deps.json
+C:\Users\HP\Desktop\stepik\stepik\bin\Debug\net10.0\stepik.runtimeconfig.json
+C:\Users\HP\Desktop\stepik\stepik\bin\Debug\net10.0\stepik.dll
+C:\Users\HP\Desktop\stepik\stepik\bin\Debug\net10.0\stepik.pdb
+C:\Users\HP\Desktop\stepik\stepik\obj\Debug\net10.0\stepik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\stepik\stepik\obj\Debug\net10.0\stepik.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\stepik\stepik\obj\Debug\net10.0\stepik.AssemblyInfo.cs
+C:\Users\HP\Desktop\stepik\stepik\obj\Debug\net10.0\stepik.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\stepik\stepik\obj\Debug\net10.0\stepik.dll
+C:\Users\HP\Desktop\stepik\stepik\obj\Debug\net10.0\refint\stepik.dll
+C:\Users\HP\Desktop\stepik\stepik\obj\Debug\net10.0\stepik.pdb
+C:\Users\HP\Desktop\stepik\stepik\obj\Debug\net10.0\stepik.genruntimeconfig.cache
+C:\Users\HP\Desktop\stepik\stepik\obj\Debug\net10.0\ref\stepik.dll
